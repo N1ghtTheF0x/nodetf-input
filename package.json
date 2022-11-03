@@ -1,0 +1,15 @@
+{
+  "name": "@nodetf/input",
+  "version": "1.0.0",
+  "description": "Input Wrapper in Web",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts-node test.ts"
+  },
+  "author": "N1ghtTheF0x",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
